@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117410744135",
+    "project_id": "spamexposezzz",
+    "storage_bucket": "spamexposezzz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117410744135:android:d03969287a52cd353eae62",
+        "android_client_info": {
+          "package_name": "com.example.spamexposeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlptb_fVR13yt3X98er8CYaalkuK8VXV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
